@@ -1,6 +1,6 @@
 # Docker-Compose with NGINX Load Balancer demo
 
-1. Download this demo with parent folder 'webapp-with-nginx-lb'
+1. Download this demo with parent folder 'compose-with-lb-demo'
 
 2. Using CMD or POWERSHELL (Use bash on Linux/Mac), launch solution with 3 copies for 'app' service.
 
